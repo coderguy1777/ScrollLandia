@@ -1,9 +1,5 @@
 from pygame import *
 
-
-
-
-
 (widdth, heiight) = (800, 600)
 screen = pygame.display.set_mode((widdth, heiight))
 pygame.display.set_caption("ScrollLandia")
